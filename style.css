@@ -69,8 +69,7 @@
 }
 
 .imgand{
-    display: flex;
-    
+    display: flex;   
 }
     
 .full{
@@ -424,8 +423,8 @@ font-size: 35px;
     color:#13282C;
     -webkit-text-stroke:0.3px #67E7B9;
     font-family: 'Alfa Slab One';
-       font-size:45px;
-       text-shadow: 2px 2px 5px #67E7B9;
+    font-size:45px;
+     text-shadow: 2px 2px 5px #67E7B9;
  }
 
  .contactme:hover{
